@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mugesh</h1>
-<h3 align="center">A Passionate Cyber-Security Enthusiast from India</h3>
+<h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+, I'm Mugesh</h1>
+<h3 align="center">A Passionate Cyber-Security Enthusiast from India</h3> 
+<h1>Welcome to my humble abode in the Digital World..</h1><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mugeshcybersecurity&label=Profile%20views&color=0e75b6&style=flat" alt="mugeshcybersecurity" /> </p>
 
 - 🌱 I’m currently learning **Sandbox**
 
@@ -13,13 +14,53 @@
 
 - 💬 Ask me about **Ethical Hacking**
 
-- ⚡ Fun fact **They Call me `HACKER`**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## :computer: Technologies I Love
+* Flutter
+* Machine Learning
+* Data Science
+* Frontend and Backend Web Development
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mugeshcybersecurity&show_icons=true&locale=en" alt="mugeshcybersecurity" /></p>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarikIshtar007&layout=compact">
+
+## Programming Languages
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/kotlin.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/dart.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
+ <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> 
+ 
+ ## Technologies I Use
+ <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/android.svg' height='40'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/>
+ 
+ ## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Mukesh'
+		current_work = 'Cracking  Code'
+		hobbies = [
+        'Watching Movie',
+				'Youtube Video's'
+				'Being up all Night chasing that ONE IP...'
+			]
+	
+	def getCity():
+		return Covai_TamilNadu()
+	
+	def Ambitions():
+		EthicalHacker()
+		CreateSecureSystem()
+		FinishMyDream()
+	# 10 more awesome ambitions here  ;)
+	
+ ```
+ 
+## Current Works
+ * Breaking into Cybersec !!
+ * I'm currently working on 🔭 building **Sandbox Testing Environment** and working up on polishing my skills 🌱 as Becoming  **Ethical Hacker**.
+ * #On Upgrading My Life Style
+## Other Stuff
+  - :octocat: [My Resume](https://github.com/Mugeshcybersecurity/Mugeshcybersecurity/resume.html)
+
+![Mukesh's github stats](https://github-readme-stats.vercel.app/api?username=Mugeshcybersecurity&show_icons=true&hide=[%22issues%22])
+ 
+ 
