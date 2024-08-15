@@ -22,7 +22,7 @@
 * penetration testing
 * networking and Linux operating systems
 * Incident response and forensics
-
+* Networking and Linux
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarikIshtar007&layout=compact">
 
 ## Programming Languages
@@ -35,7 +35,7 @@
  ## Who am I?
  ```python
  class WhoAmI:
- 	user = 'Mukesh'
+ 	user = 'Mugesh'
 		current_work = 'Cracking  Code'
 		hobbies = [
         'Watching Movie',
@@ -44,7 +44,7 @@
 			]
 	
 	def getCity():
-		return Covai_TamilNadu()
+		return India_TamilNadu()
 	
 	def Ambitions():
 		EthicalHacker()
